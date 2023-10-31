@@ -63,7 +63,7 @@ const About = () => {
             A team United by shared values
           </h3>
           <div className="flex flex-col items-center w-full lg:flex-row">
-            <div className=" py-5 md:py-10 lg:py-10 min-h-full flex flex-col justify-center items-center text-white bg-gray-700 p-5 w-full lg:w-[37%]">
+            <div className=" py-10 md:min-h-full flex flex-col justify-center items-center text-white bg-gray-700 p-5 w-full lg:w-[37%]">
               <h1 className="mb-5 font-bold text-center text-8xl md:text-9xl font-poppins">
                 6
               </h1>

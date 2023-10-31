@@ -40,12 +40,12 @@ const Contact = () => {
           <img
             src={img1}
             alt=""
-            className="lg:w-[320px] absolute lg:right-24 2xl:-top-[2%] 2xl:right-[400px] lg:-top-[7%] xl:-top-[15%] shadow-gray-600 rounded-sm shadow-lg z-20 lg:block hidden"
+            className="lg:w-[320px] absolute lg:right-24 2xl:-top-[2%] 2xl:right-[400px] lg:-top-[7%] xl:-top-[15%] rounded-sm shadow-md z-20 lg:block hidden"
           />
           <img
             src={img2}
             alt=""
-            className="z-20 md:w-[65%] md:mx-auto rounded-sm shadow-gray-500 shadow-lg lg:hidden"
+            className="z-20 md:w-[65%] md:mx-auto rounded-sm shadow-gray-500 shadow-md lg:hidden"
           />
         </div>
       </div>

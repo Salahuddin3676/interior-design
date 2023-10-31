@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="w-full 2xl:px-[400px] lg:pb-0 flex items-start lg:items-center justify-center md:px-8 lg:px-24 home-bg lg:py-[12vh] py-[12vh] md:py-[10vh]"
+      className="w-full 2xl:px-[400px] flex items-start lg:items-center justify-center md:px-8 lg:px-24 home-bg lg:py-[15vh] py-[12vh] md:py-[10vh]"
     >
       <div className="z-10 gap-10 flex flex-col-reverse md:w-full w-[95%] lg:items-center lg:justify-between lg:w-full h-auto lg:flex-row">
         <div className=" w-full max-w-2xl lg:w-[45%]">
@@ -32,7 +32,7 @@ const Home = () => {
           </div>
           <div className="flex flex-col gap-5 mt-14 md:gap-8 lg:gap-5 md:items-center md:flex-row lg:flex-col lg:items-start xl:flex-row lg:mt-10 xl:mt-14">
             <div className="flex items-center gap-5 ">
-              <div className="p-3 border-gray-400 rounded-full ">
+              <div className="p-3 border border-gray-400 rounded-full ">
                 <VscWorkspaceTrusted className="text-4xl text-gray-600 " />
               </div>
               <div className="flex flex-col items-start gap-1">
