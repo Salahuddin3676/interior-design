@@ -18,6 +18,7 @@ import { BsFillBuildingsFill, BsRocketFill } from "react-icons/bs";
 import { MdDesignServices } from "react-icons/md";
 import { HiCube } from "react-icons/hi2";
 import { TbBulbFilled } from "react-icons/tb";
+import { BiLogoFacebook, BiLogoInstagram, BiLogoBehance } from "react-icons/bi";
 
 export const navLinks = [
   {
@@ -143,7 +144,7 @@ export const portfolio = [
 export const reviews = [
   {
     id: 1,
-    name: "Jane McLaren",
+    name: "Jane McLarr",
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem aperiam natus, sunt accusantium provident",
     url: person7,
@@ -154,7 +155,7 @@ export const reviews = [
     id: 2,
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem aperiam natus, sunt accusantium provident",
-    name: "Josh Caliber",
+    name: "Ana Sinznka",
     url: person8,
     company: "Microsoft",
     rating: 4,
@@ -163,7 +164,7 @@ export const reviews = [
     id: 3,
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem aperiam natus, sunt accusantium provident",
-    name: "Ana Sanza",
+    name: "Josh Calister",
     url: person9,
     company: "Deloitte",
     rating: 4,
@@ -177,4 +178,58 @@ export const reviews = [
   //   company: "Apex Legends",
   //   rating: 5,
   // },
+];
+
+export const socialLinks = [
+  {
+    id: 1,
+    title: "Behance",
+    url: "#home",
+    icon: <BiLogoBehance />,
+  },
+  {
+    id: 2,
+    title: "Instagram",
+    url: "#home",
+    icon: <BiLogoInstagram />,
+  },
+  {
+    id: 3,
+    title: "Facebook",
+    url: "#home",
+    icon: <BiLogoFacebook />,
+  },
+];
+
+export const category = [
+  {
+    id: 1,
+    title: "Decor",
+    url: "#home",
+  },
+  {
+    id: 2,
+    title: "Furniture",
+    url: "#home",
+  },
+  {
+    id: 3,
+    title: "Lighting",
+    url: "#home",
+  },
+  {
+    id: 4,
+    title: "Interior design",
+    url: "#home",
+  },
+  {
+    id: 5,
+    title: "Architecture design",
+    url: "#home",
+  },
+  {
+    id: 6,
+    title: "Commercial design",
+    url: "#home",
+  },
 ];
