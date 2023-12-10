@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="w-full 2xl:px-[400px] flex items-start lg:items-center justify-center md:px-8 lg:px-24 home-bg lg:py-[15vh] py-[12vh] md:py-[10vh]"
+      className="w-full 2xl:px-32 flex items-start lg:items-center justify-center md:px-8 lg:px-24 home-bg lg:py-[15vh] py-[12vh] md:py-[10vh]"
     >
       <div className="z-10 gap-10 flex flex-col-reverse md:w-full w-[95%] lg:items-center lg:justify-between lg:w-full h-auto lg:flex-row">
         <div className=" w-full max-w-2xl lg:w-[45%]">

@@ -7,7 +7,7 @@ import { portfolio } from "../data";
 const Portfolio = () => {
   return (
     <section
-      className="flex items-center 2xl:px-[400px] lg:px-16 home-bg lg:py-[12vh] md:py-[10vh] py-[12vh] justify-between w-full px-4  md:px-16 xl:px-24"
+      className="flex items-center 2xl:px-32 lg:px-16 home-bg lg:py-[12vh] md:py-[10vh] py-[12vh] justify-between w-full px-4  md:px-16 xl:px-24"
       id="portfolio"
     >
       <div className="flex flex-col items-center gap-10 lg:flex-row lg:justify-between">

@@ -12,7 +12,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="px-4 2xl:px-[400px] md:px-16 lg:px-24 flex justify-center lg:py-[12vh] md:py-[10vh] py-[12vh]"
+      className="px-4 2xl:px-32 md:px-16 lg:px-24 flex justify-center lg:py-[12vh] md:py-[10vh] py-[12vh]"
     >
       <div className="flex flex-col items-center w-full gap-10 ">
         <div className="flex flex-col items-center justify-between w-full gap-10 md:gap-20 lg:flex-row ">

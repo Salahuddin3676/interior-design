@@ -7,7 +7,7 @@ const Services = () => {
   return (
     <section
       id="services"
-      className="w-full 2xl:px-[400px] bg-slate-50 pb-10 lg:py-[12vh] md:py-[10vh] py-[12vh] md:px-16 px-4 lg:px-24"
+      className="w-full 2xl:px-32 bg-slate-50 pb-10 lg:py-[12vh] md:py-[10vh] py-[12vh] md:px-16 px-4 lg:px-24"
     >
       <div className="flex flex-col w-full gap-5 md:gap-10">
         <div className="flex flex-col gap-5 mb-10 md:flex-row md:items-center md:justify-between ">

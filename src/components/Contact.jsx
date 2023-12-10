@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="relative 2xl:px-[400px] lg:my-[12vh] w-full lg:py-[12vh] md:py-[10vh] py-[12vh] px-4 md:px-16 lg:px-24 home-bg flex items-center justify-center"
+      className="relative 2xl:px-32 lg:my-[12vh] w-full lg:py-[12vh] md:py-[10vh] py-[12vh] px-4 md:px-16 lg:px-24 home-bg flex items-center justify-center"
     >
       <div className="flex flex-col-reverse items-center justify-between w-full gap-14 md:gap-16 lg:flex-row">
         <div className="flex flex-col w-full lg:w-1/2 xl:w-[60%] md:gap-10 lg:gap-5 gap-5">

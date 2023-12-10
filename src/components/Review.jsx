@@ -5,7 +5,7 @@ import { BiSolidRightArrow, BiSolidLeftArrow } from "react-icons/bi";
 
 const Review = () => {
   return (
-    <section className="flex 2xl:px-[400px] bg-white items-center justify-center lg:py-[12vh] md:py-[10vh] py-[12vh] w-full px-4 md:px-16 lg:px-24 flex-col gap-10 ">
+    <section className="flex 2xl:px-32 bg-white items-center justify-center lg:py-[12vh] md:py-[10vh] py-[12vh] w-full px-4 md:px-16 lg:px-24 flex-col gap-10 ">
       <div className="flex flex-col items-center justify-between w-full px-2 md:flex-row ">
         <h3 className="flex items-start justify-start max-w-xl gap-5 text-2xl font-bold text-center md:text-left lg:max-w-xl md:max-w-md md:text-3xl lg:text-4xl font-poppins">
           <div className="w-[80px] h-0.5 mt-5 hidden md:block bg-gray-700"></div>{" "}
