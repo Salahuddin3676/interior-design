@@ -40,7 +40,7 @@ const Contact = () => {
           <img
             src={img1}
             alt=""
-            className="lg:w-[320px] absolute lg:right-24 2xl:-top-[2%] 2xl:right-[400px] lg:-top-[7%] xl:-top-[15%] rounded-sm shadow-md z-20 lg:block hidden"
+            className="lg:w-[320px] absolute lg:right-24 2xl:-top-[2%] 2xl:right-32 lg:-top-[7%] xl:-top-[15%] rounded-sm shadow-md z-20 lg:block hidden"
           />
           <img
             src={img2}
